@@ -25,8 +25,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history. Th
 - Gender played a significant role in survival (women had higher survival rates)
 - Passenger class strongly correlated with survival chances
 - Age distribution analysis showed interesting patterns in survival rates
-- [Add more of your specific findings]
-
+- 
 ## How to Run
 
 1. Clone this repository
